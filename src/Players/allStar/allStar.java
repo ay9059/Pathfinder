@@ -14,7 +14,7 @@ import java.util.*;
  * This is the implemented player module class to represent an instance of a player.
  * Implements hasWonGame, initPlayer, and lastMove, as to pass the part1 tests in configFiles.part1
  *
- *
+ * @author Abhishek Yadav
  * @author jon frey
  */
 public class allStar implements PlayerModulePart1,PlayerModulePart2 {
